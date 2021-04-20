@@ -1,0 +1,3 @@
+sudo apt install libatlas-base-dev
+sudo apt install python3-lxml
+sudo pip3 install pandas beautifulsoup4 requests
